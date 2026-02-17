@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shukerullah
 - 👀 I’m interested in Game & Mobile app development, and in my free time I play video games and create content for YouTube ;)
-- 🌱 I’m currently working for Gulf News - Dubai as a Senior Mobile App Developer.
+- 🌱 I’m currently working for Gulf News - Dubai as a Senior Software Engineer.
 - 📫 You can reach me on www.shukarullah.com
 <!--- - 💞️ I’m looking to collaborate on ... --->
 <!---
